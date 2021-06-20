@@ -1,11 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Sophia_Jukema
- * Date: 30-1-2019
- * Time: 11:38
- */
-
 $servernaam = "localhost";
 $dbname = "TasteFood";
 $username = "root";

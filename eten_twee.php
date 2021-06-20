@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Sophia_Jukema
- * Date: 21-2-2019
- * Time: 9:54
- */
 require_once "connect.php";
 
 $eten = $conn->prepare("select id, Etennaam, Categorie, Kilogram from eten");
